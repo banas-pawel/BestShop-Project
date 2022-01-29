@@ -419,6 +419,7 @@ a {
 .price_btn-prof {
     background: var(--color-primary);
     box-shadow: 5px 10px 14px #07ACE629;
+    width: 165px;
 }
 
 .price_btn-premium {
@@ -464,6 +465,10 @@ a {
 .price_item {
     margin-bottom: 20px;
     font-size: 14px;
+}
+
+.price_box-professional .price_item {
+    margin-bottom: 26px;
 }
 
 .price_limited {
